@@ -43,14 +43,20 @@ git clone https://github.com/deeeelin/messageanalyzer.git <folder path>
 ### Material gathering :
 
 REQUEST MESSAGE RECORDS:
+
     1. Use your computer sign in IG , and go to settings->your files and media ->reuqest download
     2. Set download format as "HTML"
-    3. Wait for the download url in mail
-    4. Download the records
-    5. Open download folder ,and go inbox -> the folder with the person's name you want to anlayze 
-    6.copy/paste the folder's path to the program
-    7. Result documant "text.txt" will be produce under the same folder of IG Message Analyzer.
 
+    3. Wait for the download url in mail
+
+    4. Download the records
+
+    5. Open download folder ,and go messages->inbox -> the folder 
+
+    name with the person's name you want to anlayze 
+    6.copy/paste the folder's path to the program , press enter
+
+    7. Result document "text.txt" will be produce under the same folder of IG Message Analyzer.
 
 **Sample terminal input by following above instructions :**
 
