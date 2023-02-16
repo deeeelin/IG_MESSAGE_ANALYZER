@@ -51,9 +51,7 @@ REQUEST MESSAGE RECORDS:
 
     4. Download the records
 
-    5. Open download folder ,and go messages->inbox -> the folder 
-
-    name with the person's name you want to anlayze 
+    5. Open download folder ,and go messages->inbox -> the folder name with the person's name you want to anlayze 
     6.copy/paste the folder's path to the program , press enter
 
     7. Result document "text.txt" will be produce under the same folder of IG Message Analyzer.
