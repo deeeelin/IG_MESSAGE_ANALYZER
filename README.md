@@ -33,7 +33,13 @@ Before you begin, ensure you have met the following requirements:
 git clone https://github.com/deeeelin/messageanalyzer.git <folder path>
 ```
 
-2.  Go to the installed folder and execute main.py
+2. install required module in requirements.txt:
+
+```
+pip3 install -r <path of requirements.txt>
+```
+
+3.Go to the installed folder and execute main.py
 
 ***
 
