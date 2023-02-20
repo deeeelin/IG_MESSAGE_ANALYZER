@@ -51,28 +51,28 @@ pip3 install -r <path of requirements.txt>
 REQUEST MESSAGE RECORDS:
 
     1. Use your computer sign in IG , and go to settings->your files and media ->reuqest download
-    ![Image](./README_sources/1.png)
+![Image](./README_sources/1.png)
    
     2. Set download format as "HTML"
-    ![Image](./README_sources/2.png)
+![Image](./README_sources/2.png)
 
     3. Wait for the download url in mail
-    ![Image](./README_sources/3.png)
+![Image](./README_sources/3.png)
 
     4. Download the records
-    ![Image](./README_sources/4.png)
-    ![Image](./README_sources/5.png)
+![Image](./README_sources/4.png)
+![Image](./README_sources/5.png)
 
     5. Open download folder ,and go messages
-    ![Image](./README_sources/6.png)
+![Image](./README_sources/6.png)
     go to ->inbox 
-    ![Image](./README_sources/7.png)
+![Image](./README_sources/7.png)
     
     find the folder name with the person's name you want to anlayze ,below example : lisa
-    ![Image](./README_sources/8.png)
+![Image](./README_sources/8.png)
     
     6.copy/paste the folder's path to the program , press enter
-    ![Image](./README_sources/input.png)
+![Image](./README_sources/input.png)
 
     7. Result document "text.txt" will be produce under the same folder of IG Message Analyzer.
     
