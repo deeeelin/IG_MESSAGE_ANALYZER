@@ -79,7 +79,7 @@ REQUEST MESSAGE RECORDS:
     
 
 **Sample result by following above instructions :**
-![Image](./README_sources/sample_result.png)
+![Image](./README_sources/result.png)
 
 
 ## **Very welcome to make contributes to NTHU_SELECT**
