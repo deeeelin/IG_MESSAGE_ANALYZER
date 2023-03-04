@@ -28,11 +28,7 @@ Before you begin, ensure you have met the following requirements:
 ### To install, follow these steps:
 
 
-1. Clone the repo
-```
-git clone https://github.com/deeeelin/messageanalyzer.git <folder path>
-```
-,or just download the zip file of the repo
+1. Clone the repo , or just download the zip file of the repo
 
 2. Install required module in requirements.txt using pip3 
 
