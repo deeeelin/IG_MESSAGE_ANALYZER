@@ -17,7 +17,7 @@ Just for fun~
 
 Before you begin, ensure you have met the following requirements:
 
-* You have a machine that is able to execute python 
+* You have a machine that is able to execute python3
 * You have installed all python extensions in requirements.txt
 * You have read the instructions for using IG Message Analyzer
 
@@ -28,18 +28,15 @@ Before you begin, ensure you have met the following requirements:
 ### To install, follow these steps:
 
 
-1.
+1. Clone the repo
 ```
 git clone https://github.com/deeeelin/messageanalyzer.git <folder path>
 ```
+,or just download the zip file of the repo
 
-2. install required module in requirements.txt:
+2. Install required module in requirements.txt using pip3 
 
-```
-pip3 install -r <path of requirements.txt>
-```
-
-3.Go to the installed folder and execute main.py
+3. Go to the installed folder and execute main.py
 
 ***
 
@@ -69,7 +66,7 @@ REQUEST MESSAGE RECORDS:
    6. go to ->inbox 
 ![Image](./README_sources/7.png)
     
-   7. Find the folder name with the person's name you want to anlayze ,below example : lisa
+   7. Find the folder name with the person's name you want to anlayze ,below example : brandon
 ![Image](./README_sources/8.png)
     
    8. copy/paste the folder's path to the program , press enter
